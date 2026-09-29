@@ -12,7 +12,7 @@ Built for US service businesses that lose revenue to missed calls, slow follow-u
 
 ### What we build
 
-| | |
+| Service | What it does |
 |---|---|
 | **Premium websites** | Fast, minimal, conversion-engineered. The site is the front door, and it performs. |
 | **AI chat & voice assistants** | Every call and message answered in seconds, qualified, and booked, 24/7. |
@@ -39,9 +39,9 @@ GoHighLevel · Python · Claude · Cloudflare Workers · Stripe · Zapier · Mak
 ### Work with us
 
 **[Book a free strategy call →](https://angelovautomations.com/book.html)**
-&nbsp;&nbsp;·&nbsp;&nbsp;
+
 [Get the free playbook →](https://angelovautomations.com/playbook.html)
-&nbsp;&nbsp;·&nbsp;&nbsp;
-[info@angelovautomations.com](mailto:info@angelovautomations.com)
+
+Or email [info@angelovautomations.com](mailto:info@angelovautomations.com)
 
 <sub>© 2026 Angelov Automations Corp. Founded by Stefan Angelov, Founder & CEO.</sub>
